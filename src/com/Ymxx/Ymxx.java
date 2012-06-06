@@ -97,91 +97,91 @@ public class Ymxx extends Activity {
 		       }; 
 		public  String[] myflashIds = 
 		       {
-				"file:///mnt/sdcard/video/flash/letter/a.swf",
-				"file:///mnt/sdcard/video/flash/letter/o.swf",
-				"file:///mnt/sdcard/video/flash/letter/e.swf",
-				"file:///mnt/sdcard/video/flash/letter/ai.swf",
-				"file:///mnt/sdcard/video/flash/letter/ei.swf",
-				"file:///mnt/sdcard/video/flash/letter/ao.swf",
-				"file:///mnt/sdcard/video/flash/letter/ou.swf",
-				"file:///mnt/sdcard/video/flash/letter/an.swf",
-				"file:///mnt/sdcard/video/flash/letter/en.swf",
-				"file:///mnt/sdcard/video/flash/letter/ang.swf",
-				"file:///mnt/sdcard/video/flash/letter/eng.swf",
-				"file:///mnt/sdcard/video/flash/letter/ong.swf",
-				"file:///mnt/sdcard/video/flash/letter/i.swf",
-				"file:///mnt/sdcard/video/flash/letter/ia.swf",
-				"file:///mnt/sdcard/video/flash/letter/ie.swf",
-				"file:///mnt/sdcard/video/flash/letter/iao.swf",
-				"file:///mnt/sdcard/video/flash/letter/ian.swf",
-				"file:///mnt/sdcard/video/flash/letter/in.swf",
-				"file:///mnt/sdcard/video/flash/letter/iang.swf",
-				"file:///mnt/sdcard/video/flash/letter/ing.swf",
-				"file:///mnt/sdcard/video/flash/letter/iong.swf",
-				"file:///mnt/sdcard/video/flash/letter/u.swf",
-				"file:///mnt/sdcard/video/flash/letter/ua.swf",
-				"file:///mnt/sdcard/video/flash/letter/uai.swf",
-				"file:///mnt/sdcard/video/flash/letter/uei.swf",
-				"file:///mnt/sdcard/video/flash/letter/iou.swf",
-				"file:///mnt/sdcard/video/flash/letter/uan.swf",
-				"file:///mnt/sdcard/video/flash/letter/uen.swf",
-				"file:///mnt/sdcard/video/flash/letter/uang.swf",
-				"file:///mnt/sdcard/video/flash/letter/ueng.swf",
-				"file:///mnt/sdcard/video/flash/letter/yu.swf",
-				"file:///mnt/sdcard/video/flash/letter/yue.swf",
-				"file:///mnt/sdcard/video/flash/letter/yuan.swf",
-				"file:///mnt/sdcard/video/flash/letter/yun.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/a.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/o.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/e.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ai.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ei.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ao.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ou.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/an.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/en.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ang.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/eng.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ong.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/i.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ia.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ie.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/iao.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ian.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/in.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/iang.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ing.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/iong.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/u.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ua.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/uai.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/uei.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/iou.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/uan.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/uen.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/uang.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/ueng.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/yu.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/yue.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/yuan.swf",
+				"file:///mnt/sdcard/data/flash/directpy/letter/yun.swf",
 		       };
-		/*ÉùÄ¸ÊéĞ´ÅäÒô*/
+		/*å£°æ¯ä¹¦å†™é…éŸ³*/
 		public  String[] myaudioIds = 
 		       {
-				"/sdcard/sound/a.wav",
-				"/sdcard/sound/o.wav",
-				"/sdcard/sound/e.wav",
-				"/sdcard/sound/ai.wav",
-				"/sdcard/sound/ei.wav",
-				"/sdcard/sound/ao.wav",
-				"/sdcard/sound/ou.wav",
-				"/sdcard/sound/an.wav",
-				"/sdcard/sound/en.wav",
-				"/sdcard/sound/ang.wav",
-				"/sdcard/sound/eng.wav",
-				"/sdcard/sound/ong.wav",
-				"/sdcard/sound/i.wav",
-				"/sdcard/sound/ia.wav",
-				"/sdcard/sound/ie.wav",
-				"/sdcard/sound/iao.wav",
-				"/sdcard/sound/ian.wav",
-				"/sdcard/sound/in.wav",
-				"/sdcard/sound/iang.wav",
-				"/sdcard/sound/ing.wav",
-				"/sdcard/sound/iong.wav",
-				"/sdcard/sound/u.wav",
-				"/sdcard/sound/ua.wav",
-				"/sdcard/sound/uai.wav",
-				"/sdcard/sound/uei.wav",
-				"/sdcard/sound/iou.wav",
-				"/sdcard/sound/uan.wav",
-				"/sdcard/sound/uen.wav",
-				"/sdcard/sound/uang.wav",
-				"/sdcard/sound/ueng.wav",
-				"/sdcard/sound/yu.wav",
-				"/sdcard/sound/yue.wav",
-				"/sdcard/sound/yuan.wav",
-				"/sdcard/sound/yun.wav",
+				"/sdcard/data/audio/directpy/sound/a.wav",
+				"/sdcard/data/audio/directpy/sound/o.wav",
+				"/sdcard/data/audio/directpy/sound/e.wav",
+				"/sdcard/data/audio/directpy/sound/ai.wav",
+				"/sdcard/data/audio/directpy/sound/ei.wav",
+				"/sdcard/data/audio/directpy/sound/ao.wav",
+				"/sdcard/data/audio/directpy/sound/ou.wav",
+				"/sdcard/data/audio/directpy/sound/an.wav",
+				"/sdcard/data/audio/directpy/sound/en.wav",
+				"/sdcard/data/audio/directpy/sound/ang.wav",
+				"/sdcard/data/audio/directpy/sound/eng.wav",
+				"/sdcard/data/audio/directpy/sound/ong.wav",
+				"/sdcard/data/audio/directpy/sound/i.wav",
+				"/sdcard/data/audio/directpy/sound/ia.wav",
+				"/sdcard/data/audio/directpy/sound/ie.wav",
+				"/sdcard/data/audio/directpy/sound/iao.wav",
+				"/sdcard/data/audio/directpy/sound/ian.wav",
+				"/sdcard/data/audio/directpy/sound/in.wav",
+				"/sdcard/data/audio/directpy/sound/iang.wav",
+				"/sdcard/data/audio/directpy/sound/ing.wav",
+				"/sdcard/data/audio/directpy/sound/iong.wav",
+				"/sdcard/data/audio/directpy/sound/u.wav",
+				"/sdcard/data/audio/directpy/sound/ua.wav",
+				"/sdcard/data/audio/directpy/sound/uai.wav",
+				"/sdcard/data/audio/directpy/sound/uei.wav",
+				"/sdcard/data/audio/directpy/sound/iou.wav",
+				"/sdcard/data/audio/directpy/sound/uan.wav",
+				"/sdcard/data/audio/directpy/sound/uen.wav",
+				"/sdcard/data/audio/directpy/sound/uang.wav",
+				"/sdcard/data/audio/directpy/sound/ueng.wav",
+				"/sdcard/data/audio/directpy/sound/yu.wav",
+				"/sdcard/data/audio/directpy/sound/yue.wav",
+				"/sdcard/data/audio/directpy/sound/yuan.wav",
+				"/sdcard/data/audio/directpy/sound/yun.wav",
 		       };
 		public void onCreate(Bundle savedInstanceState) {
 	        super.onCreate(savedInstanceState);
 	        setContentView(R.layout.ymxx);
-		    //--------------------------------------»­²á---------------------------------------
-		   /*Í¨¹ıfindViewByIdÈ¡µÃ*/
+		    //--------------------------------------ç”»å†Œ---------------------------------------
+		   /*é€šè¿‡findViewByIdå–å¾—*/
 	       Gallery g = (Gallery) findViewById(R.id.myGalleryYmxx);
-	       /*Ìí¼ÓÒ»¸öImageAdapter²¢ÉèÖÃ¸øGallery¶ÔÏó*/
+	       /*æ·»åŠ ä¸€ä¸ªImageAdapterå¹¶è®¾ç½®ç»™Galleryå¯¹è±¡*/
 	       g.setAdapter(new ImageAdapter(this));
 	       
-	       /*Ìí¼ÓÄ¬ÈÏµÄÍ¼Æ¬*/
+	       /*æ·»åŠ é»˜è®¤çš„å›¾ç‰‡*/
 	       
-	       /*ÉèÖÃÒ»¸öitemclickListener²¢Toast±»µ¥»÷Í¼Æ¬µÄÎ»ÖÃ*/
+	       /*è®¾ç½®ä¸€ä¸ªitemclickListenerå¹¶Toastè¢«å•å‡»å›¾ç‰‡çš„ä½ç½®*/
 	       g.setOnItemClickListener(new OnItemClickListener() 
 	       {
 	    	   public void onItemClick(AdapterView<?> parent, View v, int position, long id) 
@@ -196,42 +196,42 @@ public class Ymxx extends Activity {
 	    		     settings.setAllowFileAccess(true);
 	    		     mWebFlash.loadUrl(myflashIds[position]);
 	   				 try{
-	   			        	mp.setDataSource(myaudioIds[position]);		//¼ÓÔØÒôÆµ£¬½øÈëInitialized×´Ì¬¡£
+	   			        	mp.setDataSource(myaudioIds[position]);		//åŠ è½½éŸ³é¢‘ï¼Œè¿›å…¥InitializedçŠ¶æ€ã€‚
 	   			        }catch(Exception e){e.printStackTrace();}
 	   			        try{
-	   			        	mp.prepare();							//½øÈëprepared×´Ì¬¡£
+	   			        	mp.prepare();							//è¿›å…¥preparedçŠ¶æ€ã€‚
 	   			        }catch(Exception e){e.printStackTrace();}
-	   				 mp.start();										//²¥·ÅÒôÀÖ
+	   				 mp.start();										//æ’­æ”¾éŸ³ä¹
 		         }
 		       });
 	     }
-	     /*¸ÄĞ´BaseAdapter×Ô¶¨ÒåÒ»ImageAdapter class*/
+	     /*æ”¹å†™BaseAdapterè‡ªå®šä¹‰ä¸€ImageAdapter class*/
 	     public class ImageAdapter extends BaseAdapter 
 	     {
-	       /*ÉùÃ÷±äÁ¿*/
+	       /*å£°æ˜å˜é‡*/
 	       int mGalleryItemBackground;
 	       private Context mContext;
 	       
-	       /*ImageAdapterµÄ¹¹ÔìÆ÷*/
+	       /*ImageAdapterçš„æ„é€ å™¨*/
 	       public ImageAdapter(Context c) 
 	       {
 	         mContext = c;
-	         /*Ê¹ÓÃÔÚres/values/attrs.xmlÖĞµÄ<declare-styleable>¶¨Òå
-	         µÄGalleryÊôĞÔ*/
+	         /*ä½¿ç”¨åœ¨res/values/attrs.xmlä¸­çš„<declare-styleable>å®šä¹‰
+	         çš„Galleryå±æ€§*/
 	         TypedArray a = obtainStyledAttributes(R.styleable.Gallery);
-	         /*È¡µÃGalleryÊôĞÔµÄIndex id*/
+	         /*å–å¾—Galleryå±æ€§çš„Index id*/
 	         mGalleryItemBackground = a.getResourceId(
 	             R.styleable.Gallery_android_galleryItemBackground, 0);
-	         /*ÈÃ¶ÔÏóµÄstyleableÊôĞÔÄÜ¹»·´¸´Ê¹ÓÃ*/ 
+	         /*è®©å¯¹è±¡çš„styleableå±æ€§èƒ½å¤Ÿåå¤ä½¿ç”¨*/ 
 	         a.recycle();
 	       }
 	       
-	       /*ÖØĞ´µÄ·½·¨getCount,·µ»ØÍ¼Æ¬ÊıÄ¿*/
+	       /*é‡å†™çš„æ–¹æ³•getCount,è¿”å›å›¾ç‰‡æ•°ç›®*/
 	       public int getCount() 
 	       {
 	         return myImageIds.length;
 	       }
-	       /*ÖØĞ´µÄ·½·¨getItemId,·µ»ØÍ¼ÏñµÄÊı×éid*/
+	       /*é‡å†™çš„æ–¹æ³•getItemId,è¿”å›å›¾åƒçš„æ•°ç»„id*/
 	       public Object getItem(int position) 
 	       {
 	         return position;
@@ -240,20 +240,20 @@ public class Ymxx extends Activity {
 	       {
 	         return position;
 	       }
-	       /*ÖØĞ´µÄ·½·¨getView,·µ»ØÒ»View¶ÔÏó*/
+	       /*é‡å†™çš„æ–¹æ³•getView,è¿”å›ä¸€Viewå¯¹è±¡*/
 	       public View getView(int position, View convertView, ViewGroup parent) 
 	       {
-	         /*²úÉúImageView¶ÔÏó*/
+	         /*äº§ç”ŸImageViewå¯¹è±¡*/
 	         ImageView i = new ImageView(mContext);
-	         /*ÉèÖÃÍ¼Æ¬¸øimageView¶ÔÏó*/
+	         /*è®¾ç½®å›¾ç‰‡ç»™imageViewå¯¹è±¡*/
 	         i.setImageResource(myImageIds[position]);
-	         /*ÖØĞÂÉèÖÃÍ¼Æ¬µÄ¿í¸ß*/
+	         /*é‡æ–°è®¾ç½®å›¾ç‰‡çš„å®½é«˜*/
 	         i.setScaleType(ImageView.ScaleType.FIT_CENTER );
-	         /*ÖØĞÂÉèÖÃLayoutµÄ¿í¸ß*/
+	         /*é‡æ–°è®¾ç½®Layoutçš„å®½é«˜*/
 	         i.setLayoutParams(new Gallery.LayoutParams(200, 240));
-	         /*ÉèÖÃGallery0…2±³¾°Í¼*/
+	         /*è®¾ç½®Galleryï¿½ï¿½èƒŒæ™¯å›¾*/
 	         i.setBackgroundResource(mGalleryItemBackground);
-	         /*·µ»ØimageView¶ÔÏó*/
+	         /*è¿”å›imageViewå¯¹è±¡*/
 	         return i; 
 	       }  
 	     }
