@@ -16,14 +16,12 @@ import com.Pdlx.Pdlx;
 import com.Yjlx.Yjlx;
 import com.About.About;
 public class DirectPy extends Activity {
-	
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-    
-        /*ÏàÓ¦µÄ°´Å¥ÊÂ¼þ*/
+        /*ï¿½ï¿½Ó¦ï¿½Ä°ï¿½Å¥ï¿½Â¼ï¿½*/
 //        Button Smxx =(Button) findViewById(R.id.smxxbtn);
 //        Button Ymxx =(Button) findViewById(R.id.ymxxbtn);
 //        Button Pdlx =(Button) findViewById(R.id.pdlxbtn);
@@ -94,17 +92,16 @@ public class DirectPy extends Activity {
 	@Override
 	public boolean onTouchEvent(MotionEvent event) {
 		// TODO Auto-generated method stub
-		//»ñµÃ´¥ÃþµÄ×ø±ê
-	
+		//ï¿½ï¿½Ã´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		float x = event.getX();
 		float y = event.getY(); 
-     	String strOpt = "ÄúµÄ×ø±êÊÇ" + x + " * " + y;	
-		//TextView view1=(TextView) findViewById(R.id);
-		//view1.setText(strOpt);
-		//Toast.makeText(DirectPy.this, strOpt,Toast.LENGTH_SHORT).show();
+//		String strOpt = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½" + x + " * " + y;	
+//		TextView view1=(TextView) findViewById(R.id.chudian);
+//		view1.setText(strOpt);
+//		Toast.makeText(DirectPy.this, strOpt,Toast.LENGTH_SHORT).show();
 		
 		
-		/*Ä£ÄâÆ÷ÏÂµÄ×ø±ê*/
+		/*Ä£ï¿½ï¿½ï¿½ï¿½ï¿½Âµï¿½ï¿½ï¿½ï¿½*/
 		switch (event.getAction()) 
 		{
 		case MotionEvent.ACTION_DOWN:
@@ -148,7 +145,7 @@ public class DirectPy extends Activity {
 //				System.exit(0);
 //			}
 			
-			/*n900ÏÂµÄ×ø±ê*/
+			/*n900ï¿½Âµï¿½ï¿½ï¿½ï¿½*/
 			if((x>82&&x<187)&&(y>197&&y<243))
 			{
 				   Intent intent = new Intent();
