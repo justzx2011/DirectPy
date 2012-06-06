@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget0"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/widget41"
+        android:layout_width="318px"
+        android:layout_height="41px"
+        android:layout_x="2px"
+        android:layout_y="-2px" >
+    </LinearLayout>
+
+<RadioGroup
+    android:id="@+id/radioGroup1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="1dp"
+    android:layout_y="11dp" >
+
+    <RadioButton
+        android:id="@+id/Singler"
+        android:layout_width="387dp"
+        android:layout_height="60dp"
+        android:text="单音节/Singler Syllable" />
+
+    <RadioButton
+        android:id="@+id/Double"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="双音节/Double Syllable" />
+
+    <RadioButton
+        android:id="@+id/Confusable "
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="模糊音辨析/Confusable Syllable" />
+</RadioGroup>
+
+<Spinner
+    android:id="@+id/Spinnerhsk"
+    android:layout_width="220dp"
+    android:layout_height="40dp"
+    android:layout_x="6dp"
+    android:layout_y="192dp" />
+
+<Spinner
+    android:id="@+id/spinnerFirst"
+    android:layout_width="220dp"
+    android:layout_height="40dp"
+    android:layout_x="244dp"
+    android:layout_y="193dp" />
+
+<Button
+    android:id="@+id/button1"
+    android:layout_width="131dp"
+    android:layout_height="wrap_content"
+    android:layout_x="180dp"
+    android:layout_y="265dp"
+    android:text="开始练习" />
+
+<Button
+    android:id="@+id/button2"
+    android:layout_width="131dp"
+    android:layout_height="wrap_content"
+    android:layout_x="350dp"
+    android:layout_y="265dp"
+    android:text="返回首页" />
+
+</AbsoluteLayout>

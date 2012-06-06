@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DirectPy!</string>
+    <string name="app_name">直呼拼音教学系统</string>
+    <string name="app_name_smxx">声母学习</string>
+    <string name="app_name_ymxx">韵母学习</string>
+    <string name="app_name_pdlx">拼读练习</string>
+    <string name="app_name_yjlx">音节练习</string>
+    <string name="app_name_about">关于我们</string>
+    <string name="app_name_hsyj">回上一级</string>
+    <string name="my_gallery_text_pre">这是图片</string>
+    <string name="test">双唇紧闭，口腔蓄满气，气流冲破双唇阻碍向前直行，形成气流破出而发声。Close tightly your lips with air in your mounth;then breath break through your lips and make resonance inside the oral cavity.</string>
+</resources>
